@@ -15,12 +15,12 @@ The project follows these key steps:
 ## Algorithm Used:
 #### Random Forest Classifier: 
 A claasification type algorithm used since the data set is of type binary(input features are in 0's and 1's)
-## Libraries Used
-### Data visualization: 
+<h2>Libraries Used</h2>h2>
+<h3 style=font-weight:bold>Data visualization: </h3>
 1) Matplotlib
 2) Seaborn
-## Model training and testing:
- A famous Machine learning Library <h3>scikit-learn</h3>
+<h3>Model training and testing:</h3>
+ A famous Machine learning Library <b>scikit-learn</b>
 
 
 
