@@ -27,6 +27,8 @@ A claasification type algorithm used since the data set is of type binary(input 
 4)pandas
 <h3>2)Model training and testing:</h3>
  A famous Machine learning Library <b>scikit-learn</b>
+ <h2> For Model Evaluation:</h2>
+ Some of the classification metrices like f1 score,recall,precision are used to understand the performance of the model.
 
 
 
