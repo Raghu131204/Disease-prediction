@@ -11,6 +11,11 @@ The project follows these key steps:
 4) Data Preprocessing:Since targes column is categorical type label encoding is performed .
 5) Data Modelling: Trained a machine learning model using scikit-learn to predict diseases.
 6) Model Evaluation: Assessed the model's performance using various metrics to ensure accuracy.
+<h2>About Dataset</h2>
+<b>Training Data</b><br>
+The Traing data set consist of total 4920 rows and 133 columns <br>
+<b>Testing Data</b><br>
+The testing data set consist of 42 rows and 133 columns
 <h2> Algorithm Used:</h2>
 <h3>Random Forest Classifier:</h3> 
 A claasification type algorithm used since the data set is of type binary(input features are in 0's and 1's)
