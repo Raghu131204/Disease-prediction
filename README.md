@@ -1,8 +1,8 @@
-<h1 style=color:red,font-weight:bold> Disease-prediction </h1>
-## Problem Overview
+<h1 > Disease-prediction </h1>
+<h2>Problem Overview</h2>
 This project uses machine learning to develop automated models that predict diseases based on symptoms, aiming to improve diagnostic accuracy and overall healthcare efficiency.
 The main goal of the project is to building a accurate model to predict the 42 different disease based on the 132 different symptoms .
-## Project Objectives
+<h2>Project Objectives</h2>
 The project follows these key steps:
 
 1) Data Gathering: Collected relevant medical data from Kaggle.
@@ -11,9 +11,8 @@ The project follows these key steps:
 4) Data Preprocessing:Since targes column is categorical type label encoding is performed .
 5) Data Modelling: Trained a machine learning model using scikit-learn to predict diseases.
 6) Model Evaluation: Assessed the model's performance using various metrics to ensure accuracy.
-   
-## Algorithm Used:
-#### Random Forest Classifier: 
+<h2> Algorithm Used:</h2>
+<h3>Random Forest Classifier:</h3> 
 A claasification type algorithm used since the data set is of type binary(input features are in 0's and 1's)
 <h2>Libraries Used</h2>h2>
 <h3 style=font-weight:bold>1)Data visualization: </h3>
