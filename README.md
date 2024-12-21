@@ -19,8 +19,8 @@ A claasification type algorithm used since the data set is of type binary(input 
 <h3 style=font-weight:bold>1)Data visualization: </h3>
 1) Matplotlib<br>
 2) Seaborn<br>
-3)numpy
-4)<br>pandas
+3)numpy<br>
+4)pandas
 <h3>2)Model training and testing:</h3>
  A famous Machine learning Library <b>scikit-learn</b>
 
